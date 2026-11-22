@@ -1,0 +1,44 @@
+{
+  "description": {
+    "translate": "enchantment.giga_enchants.nether_slayer",
+    "color": "gold"
+  },
+  "supported_items": "#ascension_enchants:enchantable/slayer_weapon",
+  "weight": 1,
+  "max_level": 5,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 8
+  },
+  "max_cost": {
+    "base": 25,
+    "per_level_above_first": 8
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {
+    "minecraft:damage": [
+      {
+        "effect": {
+          "type": "minecraft:add",
+          "value": {
+            "type": "minecraft:linear",
+            "base": 5.0,
+            "per_level_above_first": 5.0
+          }
+        },
+        "requirements": {
+          "condition": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "#ascension_enchants:sensitive_to_nether_slayer"
+          }
+        }
+      }
+    ]
+  },
+  "primary_items": "#minecraft:swords",
+  "exclusive_set": "#minecraft:exclusive_set/damage"
+}

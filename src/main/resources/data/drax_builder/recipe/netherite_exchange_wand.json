@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "drax_builder:netherite_building_wand",
+    "minecraft:ender_pearl"
+  ],
+  "result": {
+    "id": "drax_builder:netherite_exchange_wand"
+  }
+}

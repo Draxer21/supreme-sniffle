@@ -1,0 +1,11 @@
+{
+  "item.drax_backpacks.leather_backpack": "Leather Backpack",
+  "item.drax_backpacks.iron_backpack": "Iron Backpack",
+  "item.drax_backpacks.gold_backpack": "Gold Backpack",
+  "item.drax_backpacks.diamond_backpack": "Diamond Backpack",
+  "drax_backpacks.pickup.on": "Auto-pickup ON: items already in this backpack go straight into it",
+  "drax_backpacks.pickup.off": "Auto-pickup OFF",
+  "drax_backpacks.tooltip.slots": "%s / %s slots used",
+  "drax_backpacks.tooltip.pickup_on": "Auto-pickup: on (sneak + right-click)",
+  "drax_backpacks.tooltip.pickup_off": "Auto-pickup: off (sneak + right-click)"
+}

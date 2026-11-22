@@ -1,0 +1,70 @@
+{
+  "anvil_cost": 2,
+  "description": {
+    "translate": "enchantment.giga_enchants.efficiency",
+    "color": "gold"
+  },
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "amount": {
+          "type": "minecraft:lookup",
+          "values": [
+            4.0,
+            10.0,
+            20.0,
+            34.0,
+            52.0,
+            74.0,
+            100.0,
+            130.0,
+            164.0,
+            202.0,
+            244.0,
+            290.0,
+            340.0,
+            394.0,
+            452.0,
+            514.0,
+            580.0,
+            650.0,
+            724.0,
+            802.0,
+            884.0,
+            970.0,
+            1060.0,
+            1154.0,
+            1252.0,
+            1354.0,
+            1460.0,
+            1570.0,
+            1684.0,
+            1802.0
+          ],
+          "fallback": {
+            "type": "minecraft:levels_squared",
+            "added": 2.0
+          }
+        },
+        "attribute": "minecraft:mining_efficiency",
+        "id": "giga_enchants:enchantment.efficiency",
+        "operation": "add_value"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 51,
+    "per_level_above_first": 10
+  },
+  "max_level": 5,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#minecraft:enchantable/mining",
+  "weight": 5,
+  "exclusive_set": "#giga_enchants:exclusive_set/efficiency"
+}

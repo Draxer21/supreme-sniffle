@@ -1,0 +1,22 @@
+{
+  "description": {
+    "translate": "enchantment.ascension_enchants.explosive_arrows"
+  },
+  "supported_items": "#ascension_enchants:enchantable/ranged",
+  "weight": 1,
+  "max_level": 3,
+  "min_cost": {
+    "base": 20,
+    "per_level_above_first": 12
+  },
+  "max_cost": {
+    "base": 70,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 8,
+  "slots": [
+    "mainhand",
+    "offhand"
+  ],
+  "effects": {}
+}

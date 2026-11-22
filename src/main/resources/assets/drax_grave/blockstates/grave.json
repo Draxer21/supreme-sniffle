@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "drax_grave:block/grave",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "drax_grave:block/grave",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "drax_grave:block/grave",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "drax_grave:block/grave",
+      "y": 270
+    }
+  }
+}

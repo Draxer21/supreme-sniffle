@@ -1,0 +1,36 @@
+{
+  "description": {
+    "translate": "enchantment.giga_enchants.swift_strike",
+    "color": "gold"
+  },
+  "supported_items": "#ascension_enchants:enchantable/sharp_weapon",
+  "weight": 1,
+  "max_level": 3,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 60,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 8,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "id": "ascension_enchants:enchantment.giga_swift_strike",
+        "attribute": "minecraft:attack_speed",
+        "amount": {
+          "type": "minecraft:linear",
+          "base": 0.4,
+          "per_level_above_first": 0.4
+        },
+        "operation": "add_value"
+      }
+    ]
+  },
+  "exclusive_set": "ascension_enchants:swift_strike"
+}

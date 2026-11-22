@@ -1,0 +1,10 @@
+{
+  "block.drax_grave.grave": "Grave",
+  "drax_grave.created": "☠ Your %4$s item stacks are in a grave at %1$s, %2$s, %3$s. Only you can open it (right-click).",
+  "drax_grave.no_space": "☠ No room for a grave: your items dropped on the ground.",
+  "drax_grave.not_yours": "This grave belongs to %s",
+  "drax_grave.recovered": "Recovered %s item stacks",
+  "drax_grave.compass.name": "Grave Compass (%s)",
+  "drax_grave.compass.given": "You got a compass pointing to your grave. Whoever carries it can open the grave, so you can hand it to a friend.",
+  "drax_grave.recovered_xp": "Recovered %s stacks and %s experience points"
+}

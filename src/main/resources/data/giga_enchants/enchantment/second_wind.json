@@ -1,0 +1,23 @@
+{
+  "description": {
+    "translate": "enchantment.giga_enchants.second_wind",
+    "color": "gold"
+  },
+  "supported_items": "#minecraft:enchantable/chest_armor",
+  "weight": 1,
+  "max_level": 3,
+  "min_cost": {
+    "base": 20,
+    "per_level_above_first": 12
+  },
+  "max_cost": {
+    "base": 70,
+    "per_level_above_first": 12
+  },
+  "anvil_cost": 16,
+  "slots": [
+    "chest"
+  ],
+  "effects": {},
+  "exclusive_set": "ascension_enchants:second_wind"
+}

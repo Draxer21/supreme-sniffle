@@ -1,0 +1,10 @@
+{
+  "item.drax_magnet.magnet_ring": "Anillo imán",
+  "item.drax_magnet.ender_magnet_ring": "Anillo imán de ender",
+  "drax_magnet.on": "Imán: ACTIVADO (agáchate para pausarlo)",
+  "drax_magnet.off": "Imán: DESACTIVADO",
+  "drax_magnet.tooltip.radius": "Atrae ítems y experiencia a %s bloques",
+  "drax_magnet.tooltip.on": "Activo · clic derecho o M para apagarlo",
+  "drax_magnet.tooltip.off": "Inactivo · clic derecho o M para encenderlo",
+  "key.drax_magnet.toggle": "Activar/desactivar imán"
+}

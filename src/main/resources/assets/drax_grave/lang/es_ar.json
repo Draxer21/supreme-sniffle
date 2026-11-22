@@ -1,0 +1,10 @@
+{
+  "block.drax_grave.grave": "Tumba",
+  "drax_grave.created": "☠ Tus %4$s pilas de ítems quedaron en una tumba en %1$s, %2$s, %3$s. Solo tú puedes abrirla (clic derecho).",
+  "drax_grave.no_space": "☠ No había espacio para una tumba: tus ítems cayeron al suelo.",
+  "drax_grave.not_yours": "Esta tumba es de %s",
+  "drax_grave.recovered": "Recuperaste %s pilas de ítems",
+  "drax_grave.compass.name": "Brújula de tumba (%s)",
+  "drax_grave.compass.given": "Recibiste una brújula que apunta a tu tumba. Quien la lleve puede abrirla, así que se la puedes pasar a un amigo.",
+  "drax_grave.recovered_xp": "Recuperaste %s pilas y %s puntos de experiencia"
+}

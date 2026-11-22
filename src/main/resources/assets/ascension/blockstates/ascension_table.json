@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "trim=diamond": {
+      "model": "ascension:block/ascension_table"
+    },
+    "trim=iron": {
+      "model": "ascension:block/ascension_table_iron"
+    },
+    "trim=gold": {
+      "model": "ascension:block/ascension_table_gold"
+    },
+    "trim=copper": {
+      "model": "ascension:block/ascension_table_copper"
+    },
+    "trim=amethyst": {
+      "model": "ascension:block/ascension_table_amethyst"
+    }
+  }
+}

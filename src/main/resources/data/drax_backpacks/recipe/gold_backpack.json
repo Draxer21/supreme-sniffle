@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "input": "drax_backpacks:iron_backpack",
+  "material": "minecraft:gold_block",
+  "result": {
+    "id": "drax_backpacks:gold_backpack"
+  }
+}

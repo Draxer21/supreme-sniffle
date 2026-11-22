@@ -1,0 +1,36 @@
+{
+  "anvil_cost": 8,
+  "description": {
+    "translate": "enchantment.giga_enchants.luck_of_the_sea",
+    "color": "gold"
+  },
+  "effects": {
+    "minecraft:fishing_luck_bonus": [
+      {
+        "effect": {
+          "type": "minecraft:add",
+          "value": {
+            "type": "minecraft:linear",
+            "base": 2.0,
+            "per_level_above_first": 2.0
+          }
+        }
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 65,
+    "per_level_above_first": 9
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 15,
+    "per_level_above_first": 9
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#minecraft:enchantable/fishing",
+  "weight": 1,
+  "exclusive_set": "#giga_enchants:exclusive_set/luck_of_the_sea"
+}

@@ -1,0 +1,23 @@
+{
+  "description": {
+    "translate": "enchantment.giga_enchants.reflexes",
+    "color": "gold"
+  },
+  "supported_items": "#minecraft:enchantable/leg_armor",
+  "weight": 1,
+  "max_level": 3,
+  "min_cost": {
+    "base": 12,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 62,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 8,
+  "slots": [
+    "legs"
+  ],
+  "effects": {},
+  "exclusive_set": "ascension_enchants:reflexes"
+}

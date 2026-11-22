@@ -1,0 +1,10 @@
+{
+  "item.drax_magnet.magnet_ring": "Magnet Ring",
+  "item.drax_magnet.ender_magnet_ring": "Ender Magnet Ring",
+  "drax_magnet.on": "Magnet: ON (sneak to pause it)",
+  "drax_magnet.off": "Magnet: OFF",
+  "drax_magnet.tooltip.radius": "Pulls items and XP within %s blocks",
+  "drax_magnet.tooltip.on": "Active · right-click or M to turn off",
+  "drax_magnet.tooltip.off": "Inactive · right-click or M to turn on",
+  "key.drax_magnet.toggle": "Toggle magnet"
+}

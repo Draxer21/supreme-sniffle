@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.ascension_enchants.ethereal_step"
+  },
+  "supported_items": "#ascension_enchants:enchantable/ethereal_step",
+  "weight": 2,
+  "max_level": 2,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 40,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "feet"
+  ],
+  "effects": {}
+}

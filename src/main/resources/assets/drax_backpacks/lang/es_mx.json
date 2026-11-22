@@ -1,0 +1,11 @@
+{
+  "item.drax_backpacks.leather_backpack": "Mochila de cuero",
+  "item.drax_backpacks.iron_backpack": "Mochila de hierro",
+  "item.drax_backpacks.gold_backpack": "Mochila de oro",
+  "item.drax_backpacks.diamond_backpack": "Mochila de diamante",
+  "drax_backpacks.pickup.on": "Recolección automática ACTIVADA: lo que ya hay en la mochila entra directo en ella",
+  "drax_backpacks.pickup.off": "Recolección automática DESACTIVADA",
+  "drax_backpacks.tooltip.slots": "%s / %s espacios usados",
+  "drax_backpacks.tooltip.pickup_on": "Recolección automática: sí (agachado + clic derecho)",
+  "drax_backpacks.tooltip.pickup_off": "Recolección automática: no (agachado + clic derecho)"
+}

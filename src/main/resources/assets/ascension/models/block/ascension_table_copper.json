@@ -1,0 +1,10 @@
+{
+  "parent": "ascension:block/table_template",
+  "textures": {
+    "top": "ascension:block/ascension_table_top",
+    "side": "minecraft:block/enchanting_table_side",
+    "bottom": "minecraft:block/enchanting_table_bottom",
+    "trim_side": "ascension:block/trim_side_copper",
+    "trim_top": "ascension:block/trim_top_copper"
+  }
+}

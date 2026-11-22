@@ -1,0 +1,22 @@
+{
+  "description": {
+    "translate": "enchantment.ascension_enchants.parry"
+  },
+  "supported_items": "#ascension_enchants:enchantable/parry",
+  "weight": 3,
+  "max_level": 3,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 9
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 9
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "mainhand",
+    "offhand"
+  ],
+  "effects": {}
+}

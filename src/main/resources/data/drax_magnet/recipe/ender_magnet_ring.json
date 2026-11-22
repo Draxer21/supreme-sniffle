@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " E ",
+    "DMD",
+    " E "
+  ],
+  "key": {
+    "E": "minecraft:ender_pearl",
+    "D": "minecraft:diamond",
+    "M": "drax_magnet:magnet_ring"
+  },
+  "result": {
+    "id": "drax_magnet:ender_magnet_ring"
+  }
+}

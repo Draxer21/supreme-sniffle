@@ -1,0 +1,44 @@
+{
+  "anvil_cost": 8,
+  "description": {
+    "translate": "enchantment.giga_enchants.sweeping_edge",
+    "color": "gold"
+  },
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "amount": {
+          "type": "minecraft:fraction",
+          "numerator": {
+            "type": "minecraft:linear",
+            "base": 2,
+            "per_level_above_first": 2
+          },
+          "denominator": {
+            "type": "minecraft:linear",
+            "base": 3,
+            "per_level_above_first": 2
+          }
+        },
+        "attribute": "minecraft:sweeping_damage_ratio",
+        "id": "giga_enchants:enchantment.sweeping_edge",
+        "operation": "add_value"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 20,
+    "per_level_above_first": 9
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 5,
+    "per_level_above_first": 9
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#minecraft:enchantable/sweeping",
+  "weight": 1,
+  "exclusive_set": "#giga_enchants:exclusive_set/sweeping_edge"
+}

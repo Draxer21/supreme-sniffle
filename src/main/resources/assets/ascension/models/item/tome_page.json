@@ -1,0 +1,94 @@
+{
+  "textures": {
+    "particle": "ascension:item/tome_pages",
+    "pages": "ascension:item/tome_pages",
+    "edge": "ascension:item/tome_edge"
+  },
+  "elements": [
+    {
+      "from": [
+        8,
+        7.95,
+        3.7
+      ],
+      "to": [
+        13.8,
+        8.05,
+        12.3
+      ],
+      "faces": {
+        "up": {
+          "texture": "#pages"
+        },
+        "down": {
+          "texture": "#pages"
+        },
+        "north": {
+          "texture": "#edge"
+        },
+        "south": {
+          "texture": "#edge"
+        },
+        "east": {
+          "texture": "#edge"
+        },
+        "west": {
+          "texture": "#edge"
+        }
+      }
+    }
+  ],
+  "display": {
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "translation": [
+        -2,
+        2,
+        0
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  }
+}

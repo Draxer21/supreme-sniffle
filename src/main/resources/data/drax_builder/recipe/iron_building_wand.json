@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  I",
+    " G ",
+    "S  "
+  ],
+  "key": {
+    "I": "minecraft:iron_block",
+    "G": "minecraft:gold_ingot",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "drax_builder:iron_building_wand"
+  }
+}

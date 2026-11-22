@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "RIL",
+    "I I",
+    "LIR"
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "L": "minecraft:lapis_lazuli"
+  },
+  "result": {
+    "id": "drax_magnet:magnet_ring"
+  }
+}

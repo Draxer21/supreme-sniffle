@@ -1,0 +1,23 @@
+{
+  "description": {
+    "translate": "enchantment.giga_enchants.frost_thorns",
+    "color": "gold"
+  },
+  "supported_items": "#minecraft:enchantable/armor",
+  "weight": 1,
+  "max_level": 3,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 60,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 8,
+  "slots": [
+    "armor"
+  ],
+  "effects": {},
+  "exclusive_set": "ascension_enchants:frost_thorns"
+}

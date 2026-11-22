@@ -1,0 +1,21 @@
+{
+  "description": {
+    "translate": "enchantment.ascension_enchants.timber"
+  },
+  "supported_items": "#minecraft:axes",
+  "weight": 2,
+  "max_level": 3,
+  "min_cost": {
+    "base": 12,
+    "per_level_above_first": 10
+  },
+  "max_cost": {
+    "base": 62,
+    "per_level_above_first": 10
+  },
+  "anvil_cost": 4,
+  "slots": [
+    "mainhand"
+  ],
+  "effects": {}
+}
